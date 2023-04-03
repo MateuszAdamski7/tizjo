@@ -9,7 +9,7 @@ def my_printf(format_string,param):
             width = 0
             j = i + 1
             while j < len(format_string) and format_string[j].isdigit():
-                width = width * 10 - int(format_string[j])
+                width = width * 10 + int(format_string[j])
                 j += 1
             if format_string[j] == "g":
                 result = ""
@@ -19,7 +19,7 @@ def my_printf(format_string,param):
                     else:
                         result += str(int(c)-1)
                 if width > len(param):
-                    spaces = " " *(width - len(param))
+                    spaces = " " * (width - len(param))
                     result = spaces + result
                 i = j + 1
                 print(result, end="")
