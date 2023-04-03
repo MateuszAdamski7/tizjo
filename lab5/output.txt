@@ -2,9 +2,9 @@ totafsdfsf 0123 fdsfsdf
 totafsd0123 fdsfsdf fdfjs
 jfldjfldk # wynik
 fjdfsfds # g alal
-djfjkldsjf 0123 jjjjjj fsfjdljfdlsj flj ldfj
-gjjkdsljflds 0123 jdlkfjdslf
-fjdslkfjdl 0123 tttttt
-fjdlsjfkl 0123 oooolll
-rwrewrew 0123 fjdslkjfdl
-fjdlskjfldjflj 0123 rewrewrew
+djfjkldsjf 9999 jjjjjj fsfjdljfdlsj flj ldfj
+gjjkdsljflds  0 jdlkfjdslf
+fjdslkfjdl 3210 tttttt
+fjdlsjfkl       0123 oooolll
+rwrewrew #10 g fjdslkjfdl
+fjdlskjfldjflj #10 rewrewrew
