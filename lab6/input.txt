@@ -10,11 +10,11 @@ djfjkldsjf #g jjjjjj fsfjdljfdlsj flj ldfj
 9999
 gjjkdsljflds #.1g jdlkfjdslf
 98765
-fjdslkfjdl #k tttttt
-test7
-fjdlsjfkl #k oooolll
-test8
-rwrewrew #k fjdslkjfdl
-test9
-fjdlskjfldjflj #k rewrewrew
-test10
+fjdslkfjdl #.10g tttttt
+23456
+fjdlsjfkl #.0g oooolll
+0
+rwrewrew #. 5g fjdslkjfdl
+123456789
+fjdlskjfldjflj#.5grewrewrew
+90
