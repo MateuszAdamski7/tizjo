@@ -6,12 +6,12 @@ def my_printf(format_string,param):
     i = 0
     result = ""
     while i < len(format_string):
-        if format_string[i:i+2] == "#j":
+        if format_string[i:i+2] == "#j":	
             temp = hex(int(param))
             new_res = ""
             for c in temp:
                 if c in "abcdef":
-                    new_res += char(ord(c)+6)
+                    new_res += chr(ord(c)+6)
                 else:
                     new_res += c
             result += new_res
