@@ -3,17 +3,39 @@
 import sys
 
 def my_printf(format_string,param):
-    #print(format_string)
-    shouldDo=True
-    for idx in range(0,len(format_string)):
-        if shouldDo:
-            if format_string[idx] == '#' and format_string[idx+1] == 'k':
-                print(param,end="")
-                shouldDo=False
-            else:
-                print(format_string[idx],end="")
+    i = 0
+    width = 0
+    result = ""
+    while i < len(format_string):
+        if format_string[i:i+2] == '#.':
+            j = i + 2
+            while j < len(format_string) and format_string[j].isdigit():
+                j += 1
+            if j < len(format_string) and format_string[j] == 'j':
+                width = 0
+                if format_string[i + 2:j].isdigit():
+                    width = int(format_string[i + 2:j])
+                else:
+                    i -= 1    
+            p = hex(int(param))[2:]
+            new_res = ""
+            for c in p:
+                if c in "abcdef":
+                    new_res += chr(ord(c)+6)
+                else:
+                    new_res += c
+
+            num_zeros = max(0,width - len(new_res))
+            new_res = "0" * num_zeros + new_res
+            new_res = new_res.replace('0', 'o')
+            result += new_res
+
+            i += 3 + len(str(width))
+            continue
         else:
-            shouldDo=True
+            result += format_string[i]
+            i += 1
+    print(result, end="")
     print("")
 
 data=sys.stdin.readlines()
