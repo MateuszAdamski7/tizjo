@@ -1,0 +1,80 @@
+totafsdfsf # fdsfsdf
+1
+totafsd# fdsfsdf fdfjs
+10
+jfldjfldk # wynik
+99
+fjdfsfds # j alal
+2
+djfjkldsjf #j jjjjjj fsfjdljfdlsj flj ldfj
+0
+gjjkdsljflds jdlkfjdslf
+15
+fjdslkfjdl tttttt
+21
+fjdlsjfkl oooolll
+36
+rwrewrew fjdslkjfdl
+45
+fjdlskjfldjflj rewrewrew
+0
+totafsdfsf #.0j fdsfsdf
+1
+totafsd #.1j fdsfsdf fdfjs
+12345
+jfldjfldk #.10j wynik
+12345
+fjdfsfds #.20j alal
+0
+djfjkldsjf #.3j jjjjjj fsfjdljfdlsj flj ldfj
+10
+gjjkdsljflds #.0j jdlkfjdslf
+999
+fjdslkfjdl #.9j tttttt
+4563728
+fjdlsjfkl #.5j oooolll
+12
+rwrewrew #.1j fjdslkjfdl
+15
+fjdlskjfldjflj #.2j rewrewrew
+123
+totafsdfsf #.j fdsfsdf
+10
+totafsd#.j fdsfsdf fdfjs
+11
+jfldjfldk #.j wynik
+0
+fjdfsfds #.j k alal
+15
+djfjkldsjf #.j jjjjjj fsfjdljfdlsj flj ldfj
+123
+gjjkdsljflds #.j jdlkfjdslf
+123456
+fjdslkfjdl #.j tttttt
+7
+fjdlsjfkl #.j oooolll
+8
+rwrewrew #.j fjdslkjfdl
+9
+fjdlskjfldjflj #.j rewrewrew
+0
+totafsdfsf #j fdsfsdf
+test
+totafsd#j fdsfsdf fdfjs
+tes
+jfldjfldk # wynik
+te
+fjdfsfds # j alal
+t
+djfjkldsjf #l jjjjjj fsfjdljfdlsj flj ldfj
+o
+gjjkdsljflds #k jdlkfjdslf
+s
+fjdslkfjdl #g tttttt
+7
+fjdlsjfkl #l oooolll
+8
+rwrewrew #l fjdslkjfdl
+9
+fjdlskjfldjflj #l rewrewrew
+0
