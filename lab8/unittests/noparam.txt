@@ -1,20 +1,20 @@
 totafsdfsf # fdsfsdf
-test
+1
 totafsd# fdsfsdf fdfjs
-test2
+10
 jfldjfldk # wynik
-test3
-fjdfsfds # k alal
-test4
-djfjkldsjf jjjjjj fsfjdljfdlsj flj ldfj
-test5
+99
+fjdfsfds # j alal
+2
+djfjkldsjf #j jjjjjj fsfjdljfdlsj flj ldfj
+0
 gjjkdsljflds jdlkfjdslf
-test6
+15
 fjdslkfjdl tttttt
-test7
+21
 fjdlsjfkl oooolll
-test8
+36
 rwrewrew fjdslkjfdl
-test9
+45
 fjdlskjfldjflj rewrewrew
-test10
+0
