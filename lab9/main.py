@@ -17,7 +17,12 @@ def my_printf(format_string, param):
                     width = int(format_string[i + 2:j])
                 else:
                     i -= 1
-            res = divmod(param,1)
+            res = ""        
+            for a in range(len(param)):
+            	if a == '.':
+            		break
+            	res += a        
+            
             new_res = ""
             hel = str(int(res[0]))
             for c in hel:
