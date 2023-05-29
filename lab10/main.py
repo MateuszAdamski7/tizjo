@@ -13,7 +13,7 @@ def my_printf(format_string,param):
                 continue
 
             param = int(param)
-            width = len(str(param))
+            width = len(str(abs(param)))
             res = int((param*2)/width)
             if(res%2==0):
                 result += str(res)
