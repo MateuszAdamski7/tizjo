@@ -3,17 +3,27 @@
 import sys
 
 def my_printf(format_string,param):
-    #print(format_string)
-    shouldDo=True
-    for idx in range(0,len(format_string)):
-        if shouldDo:
-            if format_string[idx] == '#' and format_string[idx+1] == 'k':
-                print(param,end="")
-                shouldDo=False
+    i = 0
+    result = ""
+    while i < len(format_string):
+        if format_string[i] == '#':
+            if format_string[i+1] != 'a':
+                i += 1
+                result += '#'
+                continue
+
+            param = int(param)
+            width = len(str(param))
+            res = int((param*2)/width)
+            if(res%2==0):
+                result += str(res)
             else:
-                print(format_string[idx],end="")
+                result += hex(int(param))[2:]
+            i += 2
         else:
-            shouldDo=True
+            result += format_string[i]
+            i += 1
+    print(result, end="")
     print("")
 
 data=sys.stdin.readlines()
