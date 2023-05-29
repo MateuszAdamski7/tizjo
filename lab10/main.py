@@ -18,7 +18,7 @@ def my_printf(format_string,param):
             if(res%2==0):
                 result += str(res)
             else:
-                result += hex(int(param))[2:]
+                result += hex(int(param)).replace('0x', '')
             i += 2
         else:
             result += format_string[i]
