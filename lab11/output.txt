@@ -1,10 +1,40 @@
-totafsdfsf test fdsfsdf
-totafsdtest2 fdsfsdf fdfjs
+totafsdfsf # fdsfsdf
+totafsd# fdsfsdf fdfjs
 jfldjfldk # wynik
-fjdfsfds # k alal
-djfjkldsjf test5 jjjjjj fsfjdljfdlsj flj ldfj
-gjjkdsljflds test6 jdlkfjdslf
-fjdslkfjdl test7 tttttt
-fjdlsjfkl test8 oooolll
-rwrewrew test9 fjdslkjfdl
-fjdlskjfldjflj test10 rewrewrew
+fjdfsfds # b alal
+djfjkldsjf jjjjjj fsfjdljfdlsj flj ldfj
+gjjkdsljflds jdlkfjdslf
+fjdslkfjdl tttttt
+fjdlsjfkl oooolll
+rwrewrew fjdslkjfdl
+fjdlskjfldjflj rewrewrew
+totafsdfsf a fdsfsdf
+totafsdb0 fdsfsdf fdfjs
+jfldjfldk ba wynik
+fjdfsfds c00 alal
+djfjkldsjf -a jjjjjj fsfjdljfdlsj flj ldfj
+gjjkdsljflds -b0 jdlkfjdslf
+fjdslkfjdl cba tttttt
+fjdlsjfkl d000 oooolll
+rwrewrew d00a fjdslkjfdl
+fjdlskjfldjflj 0 rewrewrew
+totafsdfsf gfed0ba fdsfsdf
+totafsd-gfed0ba fdsfsdf fdfjs
+jfldjfldk d00a0i0g00dc00 wynik
+fjdfsfds ba0ihg000cb0 alal
+djfjkldsjf fedcbajihg0000b0 jjjjjj fsfjdljfdlsj flj ldfj
+gjjkdsljflds j0hgf0d0ba0i0gfedcba jdlkfjdslf
+fjdslkfjdl ihgf0000aj0h00e0c0a tttttt
+fjdlsjfkl p0n0l00i000000ba oooolll
+rwrewrew g0e0c0ajih0fedc00 fjdslkjfdl
+fjdlskjfldjflj gf0000aj0h00edcba rewrewrew
+totafsdfsf #l fdsfsdf
+totafsd#l fdsfsdf fdfjs
+jfldjfldk # wynik
+fjdfsfds # b alal
+djfjkldsjf #l jjjjjj fsfjdljfdlsj flj ldfj
+gjjkdsljflds #l jdlkfjdslf
+fjdslkfjdl #l tttttt
+fjdlsjfkl #l oooolll
+rwrewrew #l fjdslkjfdl
+fjdlskjfldjflj #l rewrewrew
