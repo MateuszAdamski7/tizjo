@@ -20,7 +20,7 @@ def my_printf(format_string,param):
             res = ""
             for c in reversed_binary:
                 if c == '1':
-                    if counter == 10:
+                    if counter >= 10:
                         counter = 0
                     res += chr(ord(c) + 48 + counter)
                 else:
